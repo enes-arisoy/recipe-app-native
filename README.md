@@ -41,5 +41,7 @@ Created with ❤️ by the Recipe App team
 ---
 
 **Made with 🍳 and ❤️**
+---
+
 GitHub Repo: https://bit.ly/48eWeMB
 ![Recipe App Demo](recipe-app.gif)
